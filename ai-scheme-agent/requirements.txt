@@ -1,6 +1,0 @@
-sounddevice
-numpy
-faster-whisper
-torch
-TTS
-requests
