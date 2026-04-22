@@ -1,0 +1,97 @@
+[
+  {
+    "id": "PMAY",
+    "name": "प्रधानमंत्री आवास योजना",
+    "category": "आवास",
+    "description": "इस योजना का उद्देश्य आर्थिक रूप से कमजोर वर्ग को पक्का मकान उपलब्ध कराना है।",
+    "min_age": 18,
+    "max_age": 60,
+    "max_income": 300000,
+    "eligible_categories": ["सामान्य", "ओबीसी", "एससी", "एसटी"],
+    "documents_required": [
+      "आधार कार्ड",
+      "आय प्रमाण पत्र",
+      "निवास प्रमाण पत्र"
+    ],
+    "link": "https://pmay.gov.in"
+  },
+  {
+    "id": "PMKISAN",
+    "name": "प्रधानमंत्री किसान सम्मान निधि योजना",
+    "category": "कृषि",
+    "description": "इस योजना के तहत पात्र किसानों को वार्षिक वित्तीय सहायता प्रदान की जाती है।",
+    "min_age": 18,
+    "max_age": 65,
+    "max_income": 250000,
+    "eligible_categories": ["किसान"],
+    "documents_required": [
+      "भूमि रिकॉर्ड",
+      "आधार कार्ड",
+      "बैंक खाता विवरण"
+    ],
+    "link": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "NSAP",
+    "name": "राष्ट्रीय सामाजिक सहायता कार्यक्रम",
+    "category": "वृद्धावस्था पेंशन",
+    "description": "गरीबी रेखा से नीचे जीवन यापन करने वाले वृद्ध नागरिकों को पेंशन प्रदान की जाती है।",
+    "min_age": 60,
+    "max_age": 100,
+    "max_income": 200000,
+    "eligible_categories": ["सामान्य", "ओबीसी", "एससी", "एसटी"],
+    "documents_required": [
+      "आयु प्रमाण पत्र",
+      "आधार कार्ड",
+      "बीपीएल कार्ड"
+    ],
+    "link": "https://nsap.nic.in"
+  },
+  {
+    "id": "SSY",
+    "name": "सुकन्या समृद्धि योजना",
+    "category": "बालिका कल्याण",
+    "description": "बालिकाओं की शिक्षा और भविष्य के लिए बचत योजना।",
+    "min_age": 0,
+    "max_age": 10,
+    "max_income": 500000,
+    "eligible_categories": ["बालिका"],
+    "documents_required": [
+      "जन्म प्रमाण पत्र",
+      "अभिभावक का आधार कार्ड"
+    ],
+    "link": "https://www.india.gov.in/spotlight/sukanya-samriddhi-yojana"
+  },
+  {
+    "id": "PMFBY",
+    "name": "प्रधानमंत्री फसल बीमा योजना",
+    "category": "कृषि बीमा",
+    "description": "फसल नुकसान की स्थिति में किसानों को बीमा सुरक्षा प्रदान करना।",
+    "min_age": 18,
+    "max_age": 70,
+    "max_income": 400000,
+    "eligible_categories": ["किसान"],
+    "documents_required": [
+      "भूमि दस्तावेज",
+      "बैंक खाता",
+      "आधार कार्ड"
+    ],
+    "link": "https://pmfby.gov.in"
+  },
+  {
+    "id": "POST_MATRIC",
+    "name": "पोस्ट मैट्रिक छात्रवृत्ति योजना",
+    "category": "शिक्षा",
+    "description": "एससी/एसटी/ओबीसी छात्रों को उच्च शिक्षा के लिए छात्रवृत्ति।",
+    "min_age": 15,
+    "max_age": 30,
+    "max_income": 250000,
+    "eligible_categories": ["एससी", "एसटी", "ओबीसी"],
+    "documents_required": [
+      "जाति प्रमाण पत्र",
+      "आय प्रमाण पत्र",
+      "शैक्षणिक प्रमाण पत्र"
+    ],
+    "link": "https://scholarships.gov.in"
+  }
+]
